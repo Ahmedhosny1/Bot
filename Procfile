@@ -1,2 +1,1 @@
-web: frost.py
-worker frost.py
+worker: python frost.py
