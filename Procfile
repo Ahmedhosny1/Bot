@@ -1,1 +1,1 @@
-worker:  bundle exec rake jobs:work
+web: python app.py
