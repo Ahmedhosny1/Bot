@@ -1,5 +1,5 @@
 {
-  "token": "Mzg3MDUxNzQzMDAwOTIwMDY1.DQjAXw.MgACkbA4zX9xlI35h0szQS8jGSg",
+  "token": "...",
 
   "prefix_settings":{
     "prefix": "!",
@@ -12,7 +12,7 @@
     "mod" : true
   },
 
-  "owner_ids": ["387749272394792961"],
+  "owner_ids": ["..."],
 
   "log_channel": "logs",
 
